@@ -1,6 +1,6 @@
 ---
 title: webhook のセキュリティ保護
-intro: 'セキュリティ上の理由から、サーバーが想定されているる {% data variables.product.prodname_dotcom %} リクエストのみを受信していることを確認する必要があります。'
+intro: 'セキュリティ上の理由から、サーバーが想定されている {% data variables.product.prodname_dotcom %} リクエストのみを受信していることを確認する必要があります。'
 redirect_from:
   - /webhooks/securing
   - /developers/webhooks-and-events/securing-your-webhooks
